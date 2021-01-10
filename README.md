@@ -33,5 +33,19 @@ Congratulations you are read to write code in react native
 NOW , copy my code from APP.js file   
 save the project your app will run on your mobile  
 
+
+
+## Author
+
+#### Shahmeer Khan 🧑
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/meer-khan)
+
+👉 You can also follow my GitHub Profile to stay updated about my latest projects:
+
+[![GitHub Follow](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/meer-khan)
+
+Copyright (c) 2020 Shahmeer Khan
+
 ## https://reactnative.dev/docs/environment-setup   
 official website for enviroment setup 
