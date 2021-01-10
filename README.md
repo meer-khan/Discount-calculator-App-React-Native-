@@ -33,6 +33,8 @@ Congratulations you are read to write code in react native
 NOW , copy my code from APP.js file   
 save the project your app will run on your mobile  
 
+## https://reactnative.dev/docs/environment-setup   
+official website for enviroment setup    
 
 
 ## Author
@@ -47,5 +49,4 @@ save the project your app will run on your mobile
 
 Copyright (c) 2020 Shahmeer Khan
 
-## https://reactnative.dev/docs/environment-setup   
-official website for enviroment setup 
+
